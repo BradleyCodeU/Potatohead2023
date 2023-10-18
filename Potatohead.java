@@ -91,7 +91,9 @@ public class Potatohead {
     }
     // STEP 4 OF 5: a mutator method for yr instance var WITH JAVADOC COMMENT
     // !!! NOTE: You MUST add Javadoc comments for your accessor method and mutator method
-    public boolean hasEars(){
+    
+	
+    public boolean getHasEars(){
 	    return hasEars;
     }
     /**
